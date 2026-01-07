@@ -1,0 +1,9 @@
+venv
+__pycache__/
+*.pyc
+db.sqlite3
+*.log
+OpenShop Submission.pdf
+.env
+OpenShop_api/settings.py
+OpenShop_api/wsgi.py
